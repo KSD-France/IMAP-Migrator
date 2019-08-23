@@ -1,0 +1,2 @@
+# old email address, old email password, old email server, old email port, old email use SSL, new email address, new email password, new email server, new email port, new email use SSL
+donald@duck.com, donald_old_password, imap.duck.com, , True, donaldduck@disney.com, donald_new_password, imap.disney.com, , True
